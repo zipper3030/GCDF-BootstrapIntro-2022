@@ -1,0 +1,47 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+#headerExample {
+    color: red;
+    font-size: 50px;
+}
+
+nav {
+    opacity: 80%;
+}
+
+#bkgColor {
+    background-color: rgb(143, 123, 112);
+}
+
+.makeGreen {
+    color: green;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+a:hover {
+    color: orange;
+}
+
+.bkgColor {
+    background-color: yellow;
+}
+
+#allElements {
+    background-color: peachpuff;
+    text-align: center;
+}
